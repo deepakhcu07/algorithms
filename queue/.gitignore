@@ -24,5 +24,5 @@ hs_err_pid*
 /.metadata/
 *target/*
 */target/*
-
-/.recommenders/
+*.classpath
+*.project
