@@ -1,7 +1,12 @@
 package org.algorithms.java.list;
 
 import java.util.EmptyStackException;
-
+/**
+ * Linked List Implementation of Stack
+ * @author deepak
+ *
+ * @param <T>
+ */
 public class Stack<T> {
 	
 	private Node<T> head;
